@@ -4,7 +4,7 @@
 Welcome!
 
 
-we are a team of students dedicated to contributing to the HSRW students interdependent academic success via providing University-related, and extra curricular course notes!
+we are a team of students dedicated to contributing to the HSRW students interdependent academic success via providing University-related, and extracurricular course notes!
 feel free to browse through the folder that are in the work to cover subjects from our 4 faculties.
 
 
