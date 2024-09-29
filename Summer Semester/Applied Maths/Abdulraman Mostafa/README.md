@@ -1,8 +1,8 @@
-# "Math is always about understanding and practice. Thus, you have to solve as many problems from the book as you could."
+# "Math is always about understanding and practice. Thus, you have to solve as many problems from the book as you can."
 
 
-Author: # Abdulrahman Mostafa
+Author: Abdulrahman Mostafa
 
-Instructor: # Prof. Megill
+Instructor: Prof. Megill
 
-Semester: # SS 2022
+Semester: SS 2022
