@@ -1,0 +1,5 @@
+- NOR function: !A && !B
+
+- AND function: A && B
+
+- XOR function: !A != !B
